@@ -8,14 +8,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vdbvdbrbqaoio7quj6fgmjqxpi?si=kaw2rn2ETCqnRcua5H0mUA)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iuzz)
 
-#### Github Stats
-
-![Taylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylan04&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylan04&layout=compact&theme=dark)
-
---- 
-
 <h3 align="left">Technology Stack</h3>
 <br>
 <p align="left">
